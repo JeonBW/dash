@@ -1,1 +1,0 @@
-nyweb: gunicorn main:server
